@@ -1,0 +1,2 @@
+# MarqueeMode
+everything is marquee
