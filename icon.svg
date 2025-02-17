@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+    <!-- Background -->
+    <circle cx="64" cy="64" r="60" fill="#2C2C2C"/>
+    
+    <!-- Chaotic text elements in different angles and colors -->
+    <!-- "Abc" tilted up -->
+    <text x="35" y="45" font-family="Arial Black" font-size="24" fill="#FF0000" transform="rotate(-15 35 45)">Abc</text>
+    
+    <!-- "123" going down -->
+    <text x="75" y="50" font-family="Impact" font-size="20" fill="#00FF00" transform="rotate(25 75 50)">123</text>
+    
+    <!-- "!!!" vertical -->
+    <text x="60" y="85" font-family="Comic Sans MS" font-size="28" fill="#FF00FF" transform="rotate(90 60 85)">!!!</text>
+    
+    <!-- "@#$" diagonal -->
+    <text x="20" y="80" font-family="Courier" font-size="22" fill="#FFFF00" transform="rotate(-45 20 80)">@#$</text>
+    
+    <!-- ">>>>" horizontal -->
+    <text x="65" y="95" font-family="Arial" font-size="24" fill="#00FFFF" transform="rotate(0 65 95)">>>></text>
+    
+    <!-- "~~~" tilted -->
+    <text x="85" y="35" font-family="Times" font-size="26" fill="#FFA500" transform="rotate(45 85 35)">~~~</text>
+    
+    <!-- Small motion lines scattered around -->
+    <path d="M30 30 L40 30" stroke="#FFFFFF" stroke-width="3" transform="rotate(15 30 30)"/>
+    <path d="M90 90 L100 90" stroke="#FFFFFF" stroke-width="3" transform="rotate(-30 90 90)"/>
+    <path d="M80 40 L90 40" stroke="#FFFFFF" stroke-width="3" transform="rotate(60 80 40)"/>
+    <path d="M40 85 L50 85" stroke="#FFFFFF" stroke-width="3" transform="rotate(-45 40 85)"/>
+    
+    <!-- Border to make it pop -->
+    <circle cx="64" cy="64" r="58" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+  </svg>
